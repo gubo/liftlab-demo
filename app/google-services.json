@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "794669718991",
+    "firebase_url": "https://monkey-71857.firebaseio.com",
+    "project_id": "monkey-71857",
+    "storage_bucket": "monkey-71857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794669718991:android:f6b3dbd22c897133",
+        "android_client_info": {
+          "package_name": "gubo.monkey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794669718991-252roml8r1objt3em4r8eb23dtrek4fm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gubo.monkey",
+            "certificate_hash": "e1be46b88bc5a36cdc1351b0f1008c54cb30f154"
+          }
+        },
+        {
+          "client_id": "794669718991-989v88dm9jltdsnm0kt0q1lo81mssafc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gubo.monkey",
+            "certificate_hash": "568ed16a6588231be0555a3d4ca2ae17d37d958e"
+          }
+        },
+        {
+          "client_id": "794669718991-7uvf9qbjo04dr6731bv80hki36b9fcp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9lApz5P2j5uMIQp8AeSP9ocd_vtLB7jE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794669718991-7uvf9qbjo04dr6731bv80hki36b9fcp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794669718991:android:373e30cc92740a0b",
+        "android_client_info": {
+          "package_name": "com.gubo.liftlab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794669718991-o639larnqhbt1bjpk7u7ch0mb7jaefg4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gubo.liftlab",
+            "certificate_hash": "012cbd5f03cc4a1c6d36425f7637ff8b0db79c82"
+          }
+        },
+        {
+          "client_id": "794669718991-7uvf9qbjo04dr6731bv80hki36b9fcp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9lApz5P2j5uMIQp8AeSP9ocd_vtLB7jE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794669718991-7uvf9qbjo04dr6731bv80hki36b9fcp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
